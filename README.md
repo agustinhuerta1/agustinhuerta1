@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agustín</h1>
 <h3 align="center">A passionate mathematician from Chile</h3>
-<img align= "right" alt = "Coding" width ="400" src = "https://i.pinimg.com/originals/a8/1c/6d/a81c6dfd11a6a57c08755d59a03f4b2f.gif">
+<img align= "right" alt = "Coding" width ="400" src = "[https://i.pinimg.com/originals/a8/1c/6d/a81c6dfd11a6a57c08755d59a03f4b2f.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHV6ZHcxN2Z3aGNuemltZXpsNmtrNWo5bzd5YWN5ZmVrYWhmOWJjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T3rgaqd1vT6idUS12Q/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agustinhuerta1&label=Profile%20views&color=0e75b6&style=flat" alt="agustinhuerta1" /> </p>
 
