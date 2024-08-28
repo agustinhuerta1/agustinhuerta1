@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align= "right" alt = "Coding" width ="400" src = "https://i.giphy.com/T3rgaqd1vT6idUS12Q.webp">
+
 🖊️ Mathematician interested in Sciences, physics, predictive models, FEM and control theory for PDE systems. <br>👩🏻‍🎓 Studied Master Degree in Mathematics at the UTFSM, Chile<br>💭 Currently learning about data science, ML and AI!
 
 
