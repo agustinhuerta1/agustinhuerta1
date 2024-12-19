@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-🖊️ Mathematician interested in Sciences, physics, predictive models, FEM and control theory for PDE systems. <br>👩🏻‍🎓 Studied Master Degree in Mathematics at the UTFSM, Chile<br>💭 Currently learning about data science, ML and AI!
+🖊️ Mathematician interested in Sciences, physics, predictive models, FEM and control theory for PDE systems. <br>👩🏻‍🎓 Master Degree in Mathematics at the UTFSM, Chile<br>💭 Currently learning about data science, ML and AI!
 
 
 ## 🌐 Socials:
